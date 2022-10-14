@@ -1,1 +1,51 @@
-/* You can add global styles to this file, and also import other style files */
+                                                                                                /* You can add global styles to this file, and also import other style files */
+                                                                                                
+                                                                                                html,
+                                                                                                body {
+                                                                                                    height: 100%;
+                                                                                                }
+                                                                                                
+                                                                                                body {
+                                                                                                    margin: 0;
+                                                                                                    font-family: Roboto, "Helvetica Neue", sans-serif;
+                                                                                                }
+                                                                                                
+                                                                                                .example-spacer {
+                                                                                                    flex: 1 1 auto;
+                                                                                                }
+                                                                                                
+                                                                                                .example-icon {
+                                                                                                    padding: 0 19px;
+                                                                                                }
+                                                                                                
+                                                                                                .mat-drawer {
+                                                                                                    background-color: rgba(158, 194, 209, 0.884);
+                                                                                                    color: rgb(13, 18, 18);
+                                                                                                    font-weight: bolder;
+                                                                                                }
+                                                                                                
+                                                                                                .mat-toolbar-row,
+                                                                                                .mat-toolbar-single-row {
+                                                                                                    background-color: rgba(181, 213, 232, 0.831);
+                                                                                                    color: rgba(3, 4, 4, 0.619);
+                                                                                                    font-weight: bold;
+                                                                                                }
+                                                                                                
+                                                                                                .mat-sidenav a:hover {
+                                                                                                    color: rgb(180, 26, 26);
+                                                                                                }
+                                                                                                
+                                                                                                .mat-elevation-z5 {
+                                                                                                    position: relative;
+                                                                                                    z-index: 2;
+                                                                                                }
+                                                                                                
+                                                                                                .mat-drawer-container {
+                                                                                                    background-color: rgba(193, 203, 207, 0.792);
+                                                                                                    color: rgba(10, 11, 12, 0.498);
+                                                                                                }
+                                                                                                
+                                                                                                .sarav:hover {
+                                                                                                    background-color: rgba(88, 174, 198, 0.769);
+                                                                                                    color: rgb(35, 123, 230);
+                                                                                                }
